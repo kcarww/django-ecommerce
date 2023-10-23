@@ -2,7 +2,7 @@
 
 from src.settings.base import *
 
-SECRET_KEY = "f41z(gp#mm7ktjo1bfux-n*0!mlti$9d1@k_sws@&kl*@tfi21"
+SECRET_KEY = "your_secret_key"
 
 DEBUG = True
 
